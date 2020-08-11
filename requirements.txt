@@ -1,0 +1,1 @@
+-e git+https://github.com/DachengTech/quant-dataprovider-pylib.git@8c53a823beddb1dd7720a40b7850b74d7396af00#egg=quant_dataprovider_pylib
